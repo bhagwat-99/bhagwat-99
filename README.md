@@ -4,7 +4,7 @@
 
 ### Hi there 👋 I'm Bhagwat from India
 
-I am Embedded Firmware Developer. I really enjoy controlling Harware with my programming skills.
+I am Embedded Firmware Developer. I really enjoy controlling Hardware with my programming skills.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagwat-99&theme=tokyonight&show_icons=true&locale=en)
