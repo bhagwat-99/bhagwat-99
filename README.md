@@ -1,4 +1,4 @@
-https://giphy.com/gifs/animation-computer-programmers-nGMnDqebzDcfm
+![](https://github.com/bhagwat-99/giphy.gif)
 ### Hi there 👋 I'm Bhagwat from India
 
 I am Embedded Firmware Developer. I really enjoy controlling Harware with my programming skills.
