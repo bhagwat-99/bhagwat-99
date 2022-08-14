@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/bhagwat-99/bhagwat-99/blob/main/profile_banner.png" alt="animated" />
-</p>
+![](https://github.com/bhagwat-99/bhagwat-99/blob/main/profile_banner.png)
 
 ### Hi there 👋 I'm Bhagwat from India 🇮🇳
 
