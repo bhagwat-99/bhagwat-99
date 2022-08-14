@@ -8,7 +8,7 @@ I am Embedded Firmware Developer. I really enjoy controlling Hardware with my pr
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagwat-99&theme=tokyonight&show_icons=true&locale=en)
-![Bhagwat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhagwat-99&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhagwat-99&show_icons=true&theme=tokyonight)
 
 
 <h3 align="left">Connect with me:</h3>
