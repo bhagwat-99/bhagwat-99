@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/bhagwat-99/bhagwat-99/blob/main/giphy.gif" alt="animated" />
+  <img src="https://github.com/bhagwat-99/bhagwat-99/blob/main/profile_banner.png" alt="animated" />
 </p>
 
 ### Hi there 👋 I'm Bhagwat from India 🇮🇳
