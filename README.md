@@ -8,7 +8,7 @@ I am Embedded Firmware Developer. I really enjoy controlling Hardware with my pr
 
 **About me**
 
-- 💼 FrontEnd Engineer at [iHub-AWaDH@IIT Ropar](https://awadh.iitrpr.ac.in/)
+- 💼 Embedded Firmware Developer at [iHub-AWaDH@IIT Ropar](https://awadh.iitrpr.ac.in/)
 
 - 📈 Developed Firmware for sensor's, Embedded linux, IoT applications
 
