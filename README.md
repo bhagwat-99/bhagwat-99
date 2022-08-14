@@ -2,9 +2,19 @@
   <img src="https://github.com/bhagwat-99/bhagwat-99/blob/main/giphy.gif" alt="animated" />
 </p>
 
-### Hi there 👋 I'm Bhagwat from India
+### Hi there 👋 I'm Bhagwat from India 🇮🇳
 
 I am Embedded Firmware Developer. I really enjoy controlling Hardware with my programming skills.
+
+**About me**
+
+- 💼 FrontEnd Engineer at [iHub-AWaDH@IIT Ropar](https://awadh.iitrpr.ac.in/)
+
+- 📈 Developed Firmware for sensor's, Embedded linux, IoT applications
+
+- ❤️ I love controlling hardware, and building fun experiments on type-level
+
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagwat-99&theme=tokyonight&show_icons=true&locale=en)
