@@ -6,7 +6,7 @@ I am Embedded Firmware Developer. I really enjoy controlling Hardware with my pr
 
 **About me**
 
-- 💼 Embedded Firmware Developer at [iHub-AWaDH@IIT Ropar](https://www.iitrpr.ac.in/ai-cps/#[object%20Object])
+- 💼 Embedded Firmware Developer at **Johnson Controls**
 
 - 📈 Developed Firmware for sensor's, Embedded linux, IoT applications
 
