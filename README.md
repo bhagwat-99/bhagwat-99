@@ -10,7 +10,7 @@ I am Embedded Firmware Developer. I really enjoy controlling Hardware with my pr
 
 - 📈 Developed Firmware for sensor's, Embedded linux, IoT applications
 
-- ❤️ I love controlling hardware, and building fun experiments on type-level
+- ❤️ I like controlling hardware, and building fun experiments on type-level
 
 
 
